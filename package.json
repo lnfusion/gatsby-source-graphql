@@ -1,7 +1,7 @@
 {
   "name": "@lnfusion/gatsby-source-graphql",
   "description": "Gatsby plugin which adds a third-party GraphQL API to Gatsby GraphQL with whitelabels",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "@babel/runtime": "^7.12.5",
     "@graphql-tools/links": "^7.0.3",
